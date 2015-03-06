@@ -1,4 +1,4 @@
-// print the largest prime palindrome less than 1000
+// https://www.codeeval.com/browse/3/
 
 exports.is_palindrome = function(number){
   var n = String(number).split('');

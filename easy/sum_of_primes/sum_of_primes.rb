@@ -1,4 +1,4 @@
-# find the sum of the first 1000 prime numbers
+# https://www.codeeval.com/browse/4/
 
 # divide the next number by all the previously found prime numbers
 def prime(next_number, primes)
