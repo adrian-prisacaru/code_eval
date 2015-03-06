@@ -16,6 +16,7 @@ def add_next_prime_number(primes)
   primes << next_number
 end
 
+# find the first 1000 prime numbers
 def prime_numbers
   # start with the first prime number
   primes = [2]
