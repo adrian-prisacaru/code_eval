@@ -1,6 +1,5 @@
 require 'test/unit'
 require_relative 'sum_of_primes'
-require 'debugger'
 
 class SumOfPrimesTest < Test::Unit::TestCase
   
