@@ -55,7 +55,7 @@ def digits_9(number)
 end
 
 
-# sends a number to the function that handles it's number of digits
+# maps a number to the function that handles it's number of digits
 def digits(number)
   send('digits_' + number.to_s.length.to_s, number)
 end
