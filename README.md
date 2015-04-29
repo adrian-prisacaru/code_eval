@@ -1,1 +1,1 @@
-Solutions for CodeEval challenges
+Solutions for [CodeEval](https://www.codeeval.com/) challenges
